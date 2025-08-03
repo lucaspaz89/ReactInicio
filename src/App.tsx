@@ -15,4 +15,3 @@ function App() {
 }
 
 export default App;
-//<CardBody  title={"Hola Mundo"} text={'El Texto del Componente'} />
