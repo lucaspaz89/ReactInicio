@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+Lionelpaz89+
+Lionelpaz89+.pub
 
 # Editor directories and files
 .vscode/*
